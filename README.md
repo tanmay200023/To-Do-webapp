@@ -14,7 +14,7 @@ Responsive Design: The application is designed to be responsive and works across
 Interactive Elements: Includes interactive features like form validation, dynamic content updates, etc.
 Custom Styling: Custom CSS for a unique look and feel.
 
-Usage
+Usage:
 
 Open the Application: Launch index.html in your web browser.
 Interacting with the App: Navigate through the app using the provided UI elements.
